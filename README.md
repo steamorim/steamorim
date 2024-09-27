@@ -32,7 +32,7 @@ Atualmente, estou focada em melhorar minhas habilidades em **JavaScript** e **JA
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephany%20Amorim-blue)](https://www.linkedin.com/in/stephany-amorim/)  
-[![Gmail](https://img.shields.io/badge/amorimstephany2.gmail@gmail.com-red)](mailto:amorimstephany2@gmail.com)
+[![Gmail](https://img.shields.io/badge/amorimstephany2@gmail.com-pink)](mailto:amorimstephany2@gmail.com)
 ---
 
 Muito obrigada por visitar o meu perfil! 😊
