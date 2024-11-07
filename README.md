@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-  Me chamo Stephany e estou desenvolvendo minha carreira como desenvolvedora web focada em **Front-End**, enquanto atuo como técnica de T.I. no setor hospitalar.
+  Me chamo Stephany e estou iniciando minha carreira como desenvolvedora web focada em **Front-End**, enquanto atuo como técnica de T.I. no setor hospitalar.
   Conciliar trabalho, estudos e a vida pessoal é um desafio, mas me mantém motivada a crescer tanto profissional quanto pessoalmente.
 
 ---
