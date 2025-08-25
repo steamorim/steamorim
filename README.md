@@ -1,10 +1,10 @@
 ---
 # Bem-vindo(a)! 👋
 
-  🌍 **Localização**: Grande Florianópolis, SC - Brasil  
-  🎓 **Graduação**: Sistemas de Informação - 4º Semestre (Unisul)  
-  💼 **Cargo atual**: Técnica de T.I  
-  👩‍💻 **Foco de estudos em**: Desenvolvimento Web Front-End
+  🌍 Localização: Grande Florianópolis, SC - Brasil  
+  🎓 Graduação: Sistemas de Informação - 6º Semestre (Unisul)  
+  💼 Cargo atual: Técnica de T.I  
+  👩‍💻 Foco de estudos: Desenvolvimento Web Front-End
 
 ---
 
@@ -18,7 +18,7 @@
 ## 💻 Tecnologias & Ferramentas
 
 - **Front-End**: HTML, CSS
-- **Back-End**: JavaScript e JAVA (em aprendizado)
+- **Back-End**: JavaScript e JAVA
 - **Ferramentas e conhecimentos de Suporte T.I**: Gestão de Ativos de T.I, suporte técnico e manutenção de computadores.
 
 ---
